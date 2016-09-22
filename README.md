@@ -1,3 +1,1 @@
-# test
-test测试
-test
+1.安装node环境
