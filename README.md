@@ -7,7 +7,7 @@
 
 出现上图，说明安装成功
 
-3.	建立测试文件夹
+3.建立测试文件夹
 
 ![image](https://github.com/warplan/test/blob/master/images/2.png)
 
@@ -18,19 +18,19 @@ package.json文件：
 
 注：name不能为”grunt”
 
-4.	在测试文件夹中安装grunt,命令：npm install grunt –save-dev
+4.在测试文件夹中安装grunt,命令：npm install grunt –save-dev
 
 ![image](https://github.com/warplan/test/blob/master/images/4.png)
 
-5.	举例：安装uglify插件，npm install grunt-contrib-uglify –save-dev
+5.举例：安装uglify插件，npm install grunt-contrib-uglify –save-dev
 
 ![image](https://github.com/warplan/test/blob/master/images/5.png)
 
-6.	配置Gruntfile.js,在src文件夹下新建testA.js,
+6.配置Gruntfile.js,在src文件夹下新建testA.js,
 
 ![image](https://github.com/warplan/test/blob/master/images/6.png)
 
-7.	执行grunt命令:grunt build
+7.执行grunt命令:grunt build
 
 ![image](https://github.com/warplan/test/blob/master/images/7.png)
 
