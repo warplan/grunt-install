@@ -33,5 +33,3 @@ package.json文件：
 7.执行grunt命令:grunt build
 
 ![image](https://github.com/warplan/test/blob/master/images/7.png)
-
-123456789
